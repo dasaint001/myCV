@@ -1,0 +1,158 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Elijah Aborisade
+    tagline: Software Engineer
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: aborisadeelijah@gmail.com
+    phone: 23470 6589 4885
+    website: #do not add http://
+    linkedin: elijah-aborisade-48a31474
+    github: dasaint001
+    telegram: da_saint # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@iam_dasaint'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars: dasaint001
+    goodreads: 95359404-elijah-aborisade # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+    interests:
+      - item: Reading
+        link:
+
+      - item: Researching
+        link:
+
+      - item: Troubleshooting
+        link:
+        
+      - item: Music
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+        Software engineer with professional experience building and designing software solutions. I am passionate
+        about building solutions that solve real-life problems. I am skilled in the latest frontend and backend technologies like React.js, laravel,
+        Node.js & Python. 
+education:
+    - degree: BTech in Metallurgical and Materials Engineering 
+      university: Federal University of Technology, Akure
+      time: 2009 - 2014
+      details: 
+      
+experiences:
+    - role: Software Developer(Remote Internship)
+      time: May 2020 - August 2020
+      company: HNG Limited
+      details: |
+       -Designed and developed Back-end for internal tools.
+       
+       -Built responsive user interface from design mocks.
+       
+       -Responsible for implementing Unit and Integration Tests
+       
+       -Implemented full-stack web applications using NodeJS, Express, Sequelize, MySQL, HTML/CSS.
+       
+       -Collaborated with full-stack engineers, a product manager, and a UI/UX designer.
+       
+       -Product manager for an envato template project
+            
+    - role: Cloud Engineer
+      time: April 2020 - present
+      company: Google (Remote Internship Scholarship)
+      details: |
+        Virtual Machines Deployment 
+        
+        Kubernetes Compute engine optimization
+        
+        Nginx production
+        
+        Cloud Management
+
+    - role: Backend Developer
+      time: February 2020 - May 2020
+      company: StartNg Limited(Remote Internship)
+      details: |
+        Designed a python Calculator
+
+        Built a python application for bank consumption
+        
+projects:
+    title: Projects
+    intro: >
+        FUNDMYLAPTOP
+        is a web application where users can get funds for their laptop with the help of investors through loans and some other philantropists.
+        
+        TalentPool
+        is a web application where talents could be find by employers and organizations.
+        
+        Icook
+        is a mobile application designed for the main purpose of teaching individuals how to cook different delicacies.
+        
+    assignments:
+      - title: Blog features
+        link: "#"
+        tagline: "Converted the frontend template works to a laravel blade and made it functional"
+
+      - title: Campaign Features
+        link: "#"
+        tagline: "Made the campaign features functional with laravel CRUD backend works "
+
+      - title: Investor Dashboard
+        link: "#"
+        tagline: "Created a functional investor dashboard which can view the available campaigns using laravel"
+
+      - title: Transaction Features
+        link: "#"
+        tagline: " Using sequelize, nodejs and express, I gave admin access to be able to view all completed transactions "
+
+      - title: MIcroApi
+        link: "#"
+        tagline: "Developed the microApi service's endpoints used in the Icook mobile application"
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 85%
+
+      - name: Javascript & jQuery
+        level: 65%
+
+      - name: Angular
+        level: 65%
+
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: PHP & Laravel
+        level: 70%
+
+      - name: Figma
+        level: 50%
+
+      - name: WordPress
+        level: 80%
+        
+      - name: Microsoft Suites(Word,Excel,Powerpoint and Outlook)
+        level: 99%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by Aborisade Elijah Bamidele
+   
