@@ -129,10 +129,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 85%
 
-      - name: Javascript & jQuery
+      -name: Django
+        level: 75%
+
+      - name: Javascript
         level: 65%
 
       - name: Angular
@@ -141,7 +144,10 @@ skills:
       - name: HTML5 & CSS
         level: 90%
 
-      - name: PHP & Laravel
+      - name: PHP 
+        level: 70%
+
+      - name: Laravel
         level: 70%
 
       - name: Figma
@@ -152,6 +158,18 @@ skills:
         
       - name: Microsoft Suites(Word,Excel,Powerpoint and Outlook)
         level: 99%
+
+      - name: R
+        level: 50%
+
+      - name: Java
+        level: 40%
+
+      - name: Machine Learning
+        level: 65%
+
+      - name: Cloud Engineering
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Aborisade Elijah Bamidele
