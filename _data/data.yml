@@ -59,9 +59,9 @@ experiences:
       time: April 2020 - present
       company: Google (Remote Internship Scholarship)
       details: |
-        Virtual Machines Deployment 
-        
         Kubernetes Compute engine optimization
+
+        Virtual Machines Deployment
         
         Nginx production
         
@@ -132,7 +132,7 @@ skills:
       - name: Python 
         level: 85%
 
-      -name: Django
+      - name: Django
         level: 75%
 
       - name: Javascript
