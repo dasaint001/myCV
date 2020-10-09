@@ -55,6 +55,18 @@ education:
       details: 
       
 experiences:
+    - role: Cloud Engineer
+      time: April 2020 - present
+      company: Google (Remote Internship Scholarship)
+      details: |
+        Virtual Machines Deployment 
+        
+        Kubernetes Compute engine optimization
+        
+        Nginx production
+        
+        Cloud Management
+
     - role: Software Developer(Remote Internship)
       time: May 2020 - August 2020
       company: HNG Limited
@@ -70,18 +82,6 @@ experiences:
        -Collaborated with full-stack engineers, a product manager, and a UI/UX designer.
        
        -Product manager for an envato template project
-            
-    - role: Cloud Engineer
-      time: April 2020 - present
-      company: Google (Remote Internship Scholarship)
-      details: |
-        Virtual Machines Deployment 
-        
-        Kubernetes Compute engine optimization
-        
-        Nginx production
-        
-        Cloud Management
 
     - role: Backend Developer
       time: February 2020 - May 2020
