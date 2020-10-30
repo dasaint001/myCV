@@ -140,11 +140,11 @@ skills:
       - name: Javascript
         level: 70%
 
-      - name: NodeJS
-        level: 70%
-
       - name: Angular
         level: 65%
+
+      - name: NodeJS
+        level: 70%
 
       - name: HTML5 & CSS
         level: 90%
