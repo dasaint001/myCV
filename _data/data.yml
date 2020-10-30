@@ -136,7 +136,10 @@ skills:
         level: 75%
 
       - name: Javascript
-        level: 65%
+        level: 70%
+
+      - name: NodeJS
+        level: 70%
 
       - name: Angular
         level: 65%
