@@ -114,7 +114,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-        BIZ301
+        BIZ301 (www.biz301.com)
         is a web application where business owners manage their transaction, invoicing system, employee management, expense management and other excellent tools for organisations.
 
         FUNDMYLAPTOP
@@ -128,7 +128,7 @@ projects:
         
     assignments:
       - title: Backend development
-        link: "biz301.com"
+        link: "#"
         tagline: "Development of the backend structures and features"
 
       - title: Blog features
