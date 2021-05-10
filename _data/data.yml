@@ -55,19 +55,37 @@ education:
       details: 
       
 experiences:
-    - role: Cloud Engineer
-      time: April 2020 - present
-      company: Google (Remote Internship Scholarship)
+    - role: Backend Engineer
+      time: December 2020 - Present
+      company: Palmtree Technologies Limited
       details: |
+       -Designed and developed Back-end for internal tools.
+       
+       -Built reuseable codes for industrial utilisation.
 
-        Virtual Machines Deployment 
+       -Database structuring and testing.
+
+       -Development of APIs for web application.
+       
+       -Responsible for implementing Unit and Integration Tests
+       
+       -Implemented web applications using PHP, Laravel, Lumen, MySQL, HTML/CSS.
+       
+       -Collaborated with full-stack engineers, a product manager, frontend engineers and a UI/UX designer.
+       
+
+    - role: Cloud Engineer
+      time: April 2020 - December 2020
+      company: Google (Remote Internship)
+      details: |
+        -Virtual Machines Deployment 
         
-        Kubernetes Compute engine optimization
+        -Kubernetes Compute engine optimization
 
         
-        Nginx production
+        -Nginx production
         
-        Cloud Management
+        -Cloud Management
 
     - role: Software Developer(Remote Internship)
       time: May 2020 - August 2020
@@ -96,6 +114,9 @@ experiences:
 projects:
     title: Projects
     intro: >
+        BIZ301
+        is a web application where business owners manage their transaction, invoicing system, employee management, expense management and other excellent tools for organisations.
+
         FUNDMYLAPTOP
         is a web application where users can get funds for their laptop with the help of investors through loans and some other philantropists.
         
@@ -106,6 +127,10 @@ projects:
         is a mobile application designed for the main purpose of teaching individuals how to cook different delicacies.
         
     assignments:
+      - title: Backend development
+        link: "biz301.com"
+        tagline: "Development of the backend structures and features"
+
       - title: Blog features
         link: "#"
         tagline: "Converted the frontend template works to a laravel blade and made it functional"
@@ -131,7 +156,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
+      - name: PHP 
         level: 85%
 
       - name: Django
@@ -140,20 +165,17 @@ skills:
       - name: Javascript
         level: 70%
 
-      - name: Angular
-        level: 65%
-
       - name: NodeJS
         level: 70%
 
       - name: HTML5 & CSS
         level: 90%
 
-      - name: PHP 
-        level: 70%
+      - name: Python 
+        level: 80%
 
       - name: Laravel
-        level: 70%
+        level: 85%
 
       - name: Figma
         level: 50%
@@ -174,7 +196,7 @@ skills:
         level: 65%
 
       - name: Cloud Engineering
-        level: 75%
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Aborisade Elijah Bamidele
