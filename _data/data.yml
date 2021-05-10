@@ -113,17 +113,17 @@ experiences:
         
 projects:
     title: Projects
-    intro: >
-        BIZ301 (www.biz301.com)
+    intro: |
+        -BIZ301 (www.biz301.com)
         is a web application where business owners manage their transaction, invoicing system, employee management, expense management and other excellent tools for organisations.
 
-        FUNDMYLAPTOP
+        -FUNDMYLAPTOP
         is a web application where users can get funds for their laptop with the help of investors through loans and some other philantropists.
         
-        TalentPool
+        -TalentPool
         is a web application where talents could be find by employers and organizations.
         
-        Icook
+        -Icook
         is a mobile application designed for the main purpose of teaching individuals how to cook different delicacies.
         
     assignments:
