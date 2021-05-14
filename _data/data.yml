@@ -159,14 +159,14 @@ skills:
       - name: PHP 
         level: 85%
 
-      - name: Django
-        level: 75%
-
       - name: Javascript
         level: 70%
 
       - name: NodeJS
         level: 70%
+
+      - name: MySQL
+        level: 85%
 
       - name: HTML5 & CSS
         level: 90%
@@ -190,7 +190,7 @@ skills:
         level: 50%
 
       - name: Java
-        level: 40%
+        level: 50%
 
       - name: Machine Learning
         level: 65%
